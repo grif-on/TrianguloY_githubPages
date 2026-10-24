@@ -1559,6 +1559,13 @@
       "introText": "\"Er, what's going on!?\" Uh oh! It's the child's guardian. Our hero is mortified, and it takes a while to make sense of their flustered explanation.",
       "winImage": null,
       "winText": "\"A tiny spy?!\" The guardian roars with laughter. \"Juni just loves buses, so we ride them a lot!\""
+    },
+    "40": {
+      "title": "The Setter On The Bus",
+      "introImage": "https://static.prod.thinkygames.com/uploads/puzzle_intro_images/4x40.png",
+      "introText": "Juni points at our hero's posters. \"I seen them LOADS!\" they say proudly. \"Onna BUS! The one that goes along and turns like THIS and THIS!\"",
+      "winImage": null,
+      "winText": "Hmm. This route must be very handy for the Setter! Our pal thanks Juni and dings the bell for Mouse's office stop."
     }
   }
 }
