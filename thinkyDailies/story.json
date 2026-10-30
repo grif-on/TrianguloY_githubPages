@@ -1601,6 +1601,13 @@
       "introText": "Loud chimes reveal an ice cream van nearby. It's here for the parade crowd! Our sweaty hero orders a cone, then spots some hopeful rats. Make that two cones!",
       "winImage": null,
       "winText": "Our pal recites the discount code, but the ice cream seller waves them off. \"You're kind to animals; it's on the house!\""
+    },
+    "46": {
+      "title": "Dance Dance Step Solution",
+      "introImage": "https://static.prod.thinkygames.com/uploads/puzzle_intro_images/4x46.png",
+      "introText": "The parade begins in earnest. It's so colourful and lively! Suddenly, a passing troupe pulls our hero into an energetic dance! Quick! What are the steps?",
+      "winImage": null,
+      "winText": "With a final twirl, our giddy hero rejoins the cheering spectators. What a rush!"
     }
   }
 }
